@@ -1,3 +1,17 @@
 {
-  "item.dimensionsbound.silver": "Silver"
+  "item.dimensionsbound.silver_nugget": "Silver Nugget",
+  "item.dimensionsbound.raw_silver": "Raw Silver",
+  "item.dimensionsbound.silver_ingot": "Silver Ingot",
+
+  "block.dimensionsbound.cobbled_shadowstone": "Cobbled Shadowstone",
+  "block.dimensionsbound.cracked_shadowstone_bricks": "Vracked Shadowstone Bricks",
+  "block.dimensionsbound.raw_silver_block": "Raw Silver Block",
+  "block.dimensionsbound.shadowsand": "Shadowsand",
+  "block.dimensionsbound.shadowstone": "Shadowstone",
+  "block.dimensionsbound.shadowstone_bricks": "Shadowstone Bricks",
+  "block.dimensionsbound.shadowstone_iron_ore": "Shadowstone Iron Ore",
+  "block.dimensionsbound.silver_block": "Silver Block",
+  "block.dimensionsbound.silver_ore": "Silver Ore",
+
+  "itemGroup.dimensionsbound": "Dimensions Bound"
 }

@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "dimensionsbound:block/cobbled_shadowstone"
+    "all": "dimensionsbound:block/silver_ore"
   }
 }

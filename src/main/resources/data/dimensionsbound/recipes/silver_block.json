@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "dimensionsbound:silver_ingot"
+    }
+  },
+  "result": {
+    "item": "dimensionsbound:silver_block"
+  }
+}

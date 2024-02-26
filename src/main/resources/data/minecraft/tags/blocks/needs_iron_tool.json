@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "dimensionsbound:silver_ore",
+    "dimensionsbound:raw_silver_block",
+    "dimensionsbound:silver_block"
+  ]
+}

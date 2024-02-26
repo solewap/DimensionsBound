@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "dimensionsbound:cobbled_shadowstone",
+    "dimensionsbound:cracked_shadowstone_bricks",
+    "dimensionsbound:raw_silver_block",
+    "dimensionsbound:shadowstone",
+    "dimensionsbound:shadowstone_bricks",
+    "dimensionsbound:shadowstone_iron_ore",
+    "dimensionsbound:silver_block",
+    "dimensionsbound:silver_ore"
+  ]
+}
