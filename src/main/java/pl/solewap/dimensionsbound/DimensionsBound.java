@@ -27,10 +27,9 @@ public class DimensionsBound {
 
 
 
-        ModBlocks.BLOCKS.register(modEventBus);
-        ModItems.ITEMS.register(modEventBus);
+        ModBlocks.register(modEventBus);
+        ModItems.register(modEventBus);
 
-        ModConfiguredFeatures.CONFIGURED_FEATURE.register(modEventBus);
 
         ModConfiguredFeatures.register(modEventBus);
         ModPlacedFeatures.register(modEventBus);
